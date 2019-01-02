@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "842530752088",
+    "firebase_url": "https://lakonebeta.firebaseio.com",
+    "project_id": "lakonebeta",
+    "storage_bucket": "lakonebeta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842530752088:android:53bccc33d56e3333",
+        "android_client_info": {
+          "package_name": "com.fiqie.app.chatapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842530752088-j4ufo7ckoqs7ea43mlpssum2v4h5dm0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fiqie.app.chatapps",
+            "certificate_hash": "192a53fdbfe4552c725172be7ce3f1a6bf488c3b"
+          }
+        },
+        {
+          "client_id": "842530752088-g0ht06640phfm9gq93dtinogqp5fji8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQgQF0PqsLhsfdP5OoziiQxsRObSTN0T0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842530752088-g0ht06640phfm9gq93dtinogqp5fji8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
